@@ -1,13 +1,9 @@
 ### Hi there 👋
 
-I am currently a student pursuing PG Diploma in Artificial Intelligence at CDAC ACTS, Pune, India. The course is now almost over.
-
-So I am looking for opportunities related to Machine Learning or Data Science. Any help is appreciated.
-
-Thanks in Advance
+I work at Mavenir Systems (India) as a Graduate Engineer.
 
 How to reach me:
- - [LinkedIn](https://in.linkedin.com/in/ajith05)
+ - [LinkedIn](https://www.linkedin.com/in/ajith05)
  - [Twitter](https://twitter.com/ajith1411)
 <!--
 **ajith05/ajith05** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
