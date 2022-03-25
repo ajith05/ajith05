@@ -1,6 +1,8 @@
 ### Hi there 👋
 
-I work at Mavenir Systems (India) as a Graduate Engineer.
+I work at Mavenir Systems (India) as a Member of Technical Team - I (R&D).
+
+Pronouns: He/Him/His
 
 How to reach me:
  - [LinkedIn](https://www.linkedin.com/in/ajith05)
