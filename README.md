@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I work at Mavenir Systems (India) as a Member of Technical Team - I (R&D).
+I work at Mavenir Systems (India) as a Member of Technical Staff - I (R&D).
 
 Pronouns: He/Him/His
 
