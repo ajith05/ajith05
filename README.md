@@ -4,10 +4,13 @@ I work at Mavenir Systems (India) as a Member of Technical Staff - I (R&D).
 
 Pronouns: He/Him/His
 
+Check out my [GitHub Gists](https://gist.github.com/ajith05)
+
 How to reach me:
  - [LinkedIn](https://www.linkedin.com/in/ajith05)
- - [Twitter](https://twitter.com/ajith1411)
+
 <!--
+ - [Twitter](https://twitter.com/ajith1411)
 **ajith05/ajith05** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
