@@ -1,10 +1,12 @@
 ### Hi there 👋
 
-I am a data scientist, a machine learning engineer, and a software engineer. My interests are in Artificial Intelligence (AI), Machine Learning (ML), Python, and Backend Engineering.
+I am a graduate student studying for a Master of Computer Science (MCS) degree at North Carolina State University (NCSU), Raleigh, USA.
 
-I work at [Elastiq](https://www.elastiq.ai) as a software engineer. Elastiq is an early-stage B2B AI startup focusing on both generative AI and applied AI solutions.
+I worked for 3 years as a data scientist, a machine learning engineer, and a software engineer. My interests are in Artificial Intelligence (AI), Machine Learning (ML), Python, and Backend Engineering.
 
-Before joining Elastiq, I was working at [Mavenir Systems (India)](https://www.mavenir.com) as a Member of Technical Staff - I (R&D).
+I worked at [Elastiq](https://www.elastiq.ai) as a software engineer where I implemented multiple applied AI solutions. Elastiq is an early-stage B2B AI startup focusing on both generative AI and applied AI solutions.
+
+Before joining Elastiq, I was working at [Mavenir Systems (India)](https://www.mavenir.com) as a Member of Technical Staff - I (R&D) where I implemented Reinforcement Learning (RL) solutions.
 
 Pronouns: He/Him/His
 
