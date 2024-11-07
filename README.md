@@ -10,7 +10,7 @@ Before joining Elastiq, I was working at [Mavenir Systems (India)](https://www.m
 
 Pronouns: He/Him/His
 
-Check out my [GitHub Gists](https://gist.github.com/ajith05)
+Check out my [personal website](https://ajith05.github.io) and my [GitHub Gists](https://gist.github.com/ajith05)
 
 How to reach me:
  - [LinkedIn](https://www.linkedin.com/in/ajith05)
